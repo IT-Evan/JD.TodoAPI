@@ -6,7 +6,7 @@ ASP.NET Core教程示例 - 任务管理项目.
 
 软件架构
 
-ASP.NET Core / Razor Pages / EF Core / SQLLocalDB
+ASP.NET Core / Web API / EF Core / InMemoryDB
 
 安装教程
 
@@ -27,5 +27,5 @@ F5运行即可.
 3. 提交代码
 4. 新建 Pull Request
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113304_2a16b393_2265734.png "JD.MovieRazor1.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113314_510f26d8_2265734.png "JD.MovieRazor2.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/162437_b4938ba2_2265734.png "JD.TodoAPI1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/162445_9e49f4b7_2265734.png "JD.TodoAPI2.png")
